@@ -16,36 +16,9 @@ The objective of this project is to analyze historical cryptocurrency data using
 - Dashboard Interaction <a href="https://github.com/Priyanshu25482/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Process
-1. Data Cleaning in Microsoft Excel:-
-The raw dataset was cleaned in MS Excel to make it suitable for analysis.
-
-2.Data Analysis using SQL Queries:-
-After importing the dataset, SQL queries were used to extract meaningful insights.
-
-Some important queries performed:
--Year-wise closing price analysis
--Total trading volume by year
--Highest and lowest price comparison
--Average price calculation
--Market capitalization growth
--Price change and daily return analysis
-
-3. Data Visualization in Power BI
-The cleaned and processed data was then imported into Power BI to create an interactive dashboard.
-
-The following visuals were created:
--Line Chart – Closing Price by Year
--Bar Chart – Opening Price by Year
--Pie/Donut Chart – High and Low Price Comparison
--Volume Analysis Chart
-
-KPI Cards:
--Moving Average
--Market Cap
--Percentage Growth Rate
--Daily Return
--Price Change
--Date Slicer for dynamic filtering
+-The raw dataset was cleaned in MS Excel to make it suitable for analysis.
+-After importing the dataset, SQL queries were used to extract meaningful insights.
+-The cleaned and processed data was then imported into Power BI to create an interactive dashboard.
 
 ## Dashboard
 <img width="1227" height="692" alt="Dashboard" src="https://github.com/user-attachments/assets/af51c950-96cf-494c-98ef-fb12a30309aa" />
