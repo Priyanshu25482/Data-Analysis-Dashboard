@@ -1,11 +1,11 @@
-# Time Series Analysis with Cryptocurrency Data Analysis Project (Interactive Dashboard creation using Power BI)
+# Time Series Analysis with Cryptocurrency Data Analysis Project 
+(Interactive Dashboard creation using Power BI)
 
 ## Project Objective
 The objective of this project is to analyze historical cryptocurrency data using time series techniques to identify trends, patterns, and seasonality, and to build predictive models for forecasting future price movements.
 
 ## Dataset Used
-
-
+- <a href="https://github.com/Priyanshu25482/Data-Analysis-Dashboard/blob/main/bitcoin_price_data.csv.xlsx">DataSet</a>
 
 ## Question (KPIs)
 -How has the closing price trend changed from 2013 to 2020?
