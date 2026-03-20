@@ -1,2 +1,17 @@
-# Data-Analysis-Dashboard
-This project focuses on Time Series Analysis of cryptocurrency data, where historical price data (open, high, low, close, and volume) is analyzed to identify trends, seasonality, and patterns. Using tools like MS Excel, SQL and Power BI, the project applies techniques such as moving averages and forecasting models to predict future price movements.
+# Time Series Analysis with Cryptocurrency Data Analysis Project (Interactive Dashboard creation using Power BI)
+
+## Project Objective
+The objective of this project is to analyze historical cryptocurrency data using time series techniques to identify trends, patterns, and seasonality, and to build predictive models for forecasting future price movements.
+
+## Dataset Used
+
+
+
+## Question (KPIs)
+-How has the closing price trend changed from 2013 to 2020?
+
+-Which year shows the highest growth in closing price?
+
+-Is there any significant drop or fluctuation in specific years?
+
+-How does the opening price compare with closing price trends over time?
