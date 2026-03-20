@@ -15,11 +15,11 @@ The objective of this project is to analyze historical cryptocurrency data using
 
 - Dashboard Interaction <a href="https://github.com/Priyanshu25482/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
-## Proces
-1. Data Cleaning in Microsoft Excel
+## Process
+1. Data Cleaning in Microsoft Excel:-
 The raw dataset was cleaned in MS Excel to make it suitable for analysis.
 
-2.Data Analysis using SQL Queries
+2.Data Analysis using SQL Queries:-
 After importing the dataset, SQL queries were used to extract meaningful insights.
 
 Some important queries performed:
