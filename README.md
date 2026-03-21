@@ -13,7 +13,8 @@ The objective of this project is to analyze historical cryptocurrency data using
 - Is there any significant drop or fluctuation in specific years?
 - How does the opening price compare with closing price trends over time?
 
-##Dashboard Interaction <a href="https://github.com/Priyanshu25482/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+## Dashboard Interaction 
+<a href="https://github.com/Priyanshu25482/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Process
 - The raw dataset was cleaned in MS Excel to make it suitable for analysis.
